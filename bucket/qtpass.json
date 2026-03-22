@@ -1,10 +1,10 @@
 {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "description": "A multi-platform GUI for pass, the standard unix password manager.",
     "homepage": "https://github.com/IJHack/QtPass",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/IJHack/QtPass/releases/download/v1.5.0/qtpass-1.5.0.exe",
-    "hash": "ad0f9b709ac99bc14cc0650aaf22fdc7eaa09615964a1d40f5a1f0af524920bc",
+    "url": "https://github.com/IJHack/QtPass/releases/download/v1.5.1/qtpass-1.5.1.exe",
+    "hash": "f8457a971da97ccbce1acc787d73905f028c37eace3359fc463cb50ea07ddf42",
     "innosetup": true,
     "shortcuts": [
         [
