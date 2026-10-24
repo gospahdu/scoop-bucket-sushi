@@ -1,12 +1,12 @@
 {
-    "version": "7.0.3",
+    "version": "7.2.1",
     "description": "The IDE for competitive programming (beta)",
     "homepage": "https://github.com/cpeditor/cpeditor",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cpeditor/cpeditor/releases/download/7.0.3/cpeditor-7.0.3-windows-x64-portable.zip",
-            "hash": "23ae0f9a4e010a4a9769acec6209200d77a4247c13af46aaa3339c83627e519e"
+            "url": "https://github.com/cpeditor/cpeditor/releases/download/7.2.1/cpeditor-7.2.1-windows-x64-portable.zip",
+            "hash": "93c7042cacab559628dd573d2cf42bf05395445ff63a1a3d5722d14bb4c977eb"
         }
     },
     "installer": {
